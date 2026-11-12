@@ -1,0 +1,13 @@
+{
+    "display_name": "Toàn Thị Chi Nhãn",
+    "loading_order": 105,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "generate_interceptor": "eyeBoostInterceptor",
+    "author": "Tôi Chịu Thôi Á",
+    "version": "1.4.4",
+    "homePage": "https://github.com/Despolca/EyeofOmniscience",
+    "auto_update": true
+}
